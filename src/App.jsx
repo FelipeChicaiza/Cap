@@ -38,6 +38,7 @@ function App() {
     }
   }
 
+  //remember to change this in order to display the image on the page
   const makeQuery = () => {
     let wait_until = "network_idle";
     let response_type = "json";
